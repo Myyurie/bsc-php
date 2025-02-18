@@ -1,5 +1,5 @@
 {
-    "name": "yurie/bsc-php",
+    "name": "fenguoz/bsc-php",
     "description": "Support Binance's BNB and BEP20, which include functions such as address creation, balance query, transaction transfer, query the latest blockchain, query information based on the blockchain, and query information based on the transaction hash",
     "keywords": [
         "php",
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "yu",
-            "email": "myyurunyue@163.com"
+            "name": "Fenguoz",
+            "email": "243944672@qq.com"
         }
     ],
     "require": {
